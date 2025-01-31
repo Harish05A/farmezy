@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "312604426077",
+    "project_id": "farmezy-4bb19",
+    "storage_bucket": "farmezy-4bb19.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312604426077:android:8d8ac2293eda977763f2b4",
+        "android_client_info": {
+          "package_name": "com.example.farmezy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-dTb3_qImsSxBuIJFqACcYkQxD4xxgDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312604426077:android:3227698b0fe6ec5063f2b4",
+        "android_client_info": {
+          "package_name": "farmezy.prero.in"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-dTb3_qImsSxBuIJFqACcYkQxD4xxgDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
